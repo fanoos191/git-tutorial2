@@ -1,4 +1,12 @@
+
 .container {
     background-color: orange;
     height: 300px;
+    width: 300px;
+}
+
+.second {
+    background-color: #bf00ff;
+    width: 100px;
+    height: 100px;
 }
